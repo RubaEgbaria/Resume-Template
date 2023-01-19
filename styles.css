@@ -1,0 +1,74 @@
+.body
+{
+    background-color: rgb(255, 255, 255);
+    margin: 200px;
+    padding: 50px;
+    border-radius: 5%;
+    height: 850px;
+
+    /* border: 3px solid lightgray; */
+}
+.title
+{
+    color: rgb(159, 86, 86);
+    text-align: center;
+    position: absolute;
+    top: 45px;
+    left:580px;
+}
+.personal_img
+{
+    width: 29%;
+    position: absolute;
+    top: 175px;
+    right: 15%;
+    border-radius: 10%;
+}
+.content
+{
+    background-color: rgb(159, 86, 86);
+    position: absolute;
+    top: 175px;
+    left: 300px;
+    border-radius: 10%;
+    width: 300px;
+    padding: 2%;
+    color: whitesmoke;
+
+}
+.awards
+{
+    position: absolute;
+    top: 555px;
+    right: 33%;
+}
+.clients
+{
+    position: absolute;
+    top: 680px;
+    right: 36%;
+}
+.exp
+{
+    position: absolute;
+    top: 555px;
+    right: 23%;   
+}
+.projects
+{
+    position: absolute;
+    top: 680px;
+    right: 21%;   
+}
+.cv
+{
+    background-color: rgb(159, 86, 86);
+    color: whitesmoke;
+    text-align: center;
+    position: absolute;
+    top: 797px;
+    right:15%;
+    width: 29%;
+    border-radius: 10%;
+
+}
